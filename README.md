@@ -117,3 +117,22 @@ MAE (Mean Absolute Error): Erro absoluto médio
 R² (Coefficient of Determination): Coeficiente de determinação
 
 → Acesse o Jupyter Notebook para ver os resultados completos e comparações detalhadas!
+################################################################################################
+Meta de Etnrega 2:
+  
+1)  Configuração da Instância
+•	Tipo de instância: t4g.micro (2 vCPUs, 1 GiB RAM, até 5 Gigabit de rede)
+•	Sistema operacional: Linux
+•	Modelo de preço: Sob demanda 
+•	Armazenamento EBS: 50 GB 
+
+<img width="886" height="162" alt="image" src="https://github.com/user-attachments/assets/6f528464-09b3-4718-8def-68ce50c73041" />
+
+•A região da Virgínia do Norte (EUA) apresenta uma solução mais econômica, em relação à região de São Paulo. 
+
+
+2) Suponha também que você precisa acessar rapidamente os dados dos sensores e que há restrições legais para armazenamento no exterior. Qual opção você escolheria? Justifique.
+•	a) Os sensores provavelmente estão localizados no Brasil. hospedar a API na mesma região reduz significativamente a latência na comunicação, Isso garante que os dados dos sensores sejam processados quase em tempo real.
+•	b) Segue link do vídeo https://youtu.be/9JrP-KTMyzI
+ 
+  
